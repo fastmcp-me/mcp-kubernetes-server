@@ -1,3 +1,10 @@
+[![Add to Cursor](https://fastmcp.me/badges/cursor_dark.svg)](https://fastmcp.me/MCP/Details/880/kubernetes)
+[![Add to VS Code](https://fastmcp.me/badges/vscode_dark.svg)](https://fastmcp.me/MCP/Details/880/kubernetes)
+[![Add to Claude](https://fastmcp.me/badges/claude_dark.svg)](https://fastmcp.me/MCP/Details/880/kubernetes)
+[![Add to ChatGPT](https://fastmcp.me/badges/chatgpt_dark.svg)](https://fastmcp.me/MCP/Details/880/kubernetes)
+[![Add to Codex](https://fastmcp.me/badges/codex_dark.svg)](https://fastmcp.me/MCP/Details/880/kubernetes)
+[![Add to Gemini](https://fastmcp.me/badges/gemini_dark.svg)](https://fastmcp.me/MCP/Details/880/kubernetes)
+
 # mcp-kubernetes-server
 
 [![PyPI version](https://img.shields.io/pypi/v/mcp-kubernetes-server.svg)](https://pypi.org/project/mcp-kubernetes-server) [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE) [![Build Status](https://github.com/feiskyer/mcp-kubernetes-server/actions/workflows/build.yml/badge.svg)](https://github.com/feiskyer/mcp-kubernetes-server/actions/workflows/build.yml)
